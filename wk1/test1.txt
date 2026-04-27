@@ -1,2 +1,1 @@
-My first file
-This is a new line
+This is a new line, a wonderful line
